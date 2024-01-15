@@ -1,8 +1,8 @@
 # Sai Vijay Tollikonda
 
-![Sai Vijay Tollikonda](your_image_url.jpg)
+![Sai Vijay Tollikonda](https://github.com/tsaivijay/itm/blob/main/tooling-assignment/images/vijay.jpg)
 
-![Something Describing Sai Vijay Tollikonda]()
+![Something Describing Sai Vijay Tollikonda](https://github.com/tsaivijay/itm/blob/main/tooling-assignment/images/fun.jpg)
 
 ## Where Are You From?
 
