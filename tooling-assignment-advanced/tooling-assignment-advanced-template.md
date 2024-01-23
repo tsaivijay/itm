@@ -9,7 +9,8 @@ Provide the required screenshots to show that tooling has been properly installe
 ## WebServer Install
 
 Screenshot from the host OS of http://192.168.33.10  or whichever private IP you assign to your Vagrant Box
-![](https://github.com/tsaivijay/itm/blob/main/images/.png)
+![install](https://github.com/tsaivijay/itm/blob/main/images/install.png)
+![IP](https://github.com/tsaivijay/itm/blob/main/images/ip.png)
 ## MariaDB Version
 
 Execute command: `mysql -V`
