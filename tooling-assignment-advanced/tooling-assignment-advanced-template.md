@@ -9,35 +9,36 @@ Provide the required screenshots to show that tooling has been properly installe
 ## WebServer Install
 
 Screenshot from the host OS of http://192.168.33.10  or whichever private IP you assign to your Vagrant Box
-
+![](https://github.com/tsaivijay/itm/blob/main/images/.png)
 ## MariaDB Version
 
 Execute command: `mysql -V`
-
+![](https://github.com/tsaivijay/itm/blob/main/images/.png)
 ## Java Version
 
 Execute command: `java -version`
-
+![java](https://github.com/tsaivijay/itm/blob/main/images/java.png)
 ## Spark Versions
 
 Execute command: `pyspark` and `spark-shell` and take screenshots of each.
-
+![pyspark](https://github.com/tsaivijay/itm/blob/main/images/pyspark.png)
+![spark-shell](https://github.com/tsaivijay/itm/blob/main/images/spark-shell.png)
 ## R Version
 
 Execute command: `R -v`
-
+![R_version](https://github.com/tsaivijay/itm/blob/main/images/Rscript.png)
 ## Python Version
 
 Execute command: `python -V`
-
+![python](https://github.com/tsaivijay/itm/blob/main/images/python.png)
 ## Result of Cloning Your Private Repository
 
 No need to show the clone action -- just the results of the `ls` command
 
-Image goes here
+![Cloning](https://github.com/tsaivijay/itm/blob/main/images/cloning.png)
 
 ## Output of vagrant box list command
-
+![box](https://github.com/tsaivijay/itm/blob/main/images/box.png)
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
 
 ## Deliverable
