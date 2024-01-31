@@ -42,14 +42,17 @@ Make sure the `vagrant@your-initials` is in the screenshot
 ### PySpark ScreenShot
 
 Place PySpark screenshot here
+![pyspark](https://github.com/tsaivijay/itm/blob/main/images/spark_output.png)
 
 ### SBT build Output Screenshot
 
 Place screenshot here
+![sbt_output](https://github.com/tsaivijay/itm/blob/main/images/sbt_output.png)
 
 ### Spark Scala ScreenShot
 
 Place Scala screenshot here
+![scala_output](https://github.com/tsaivijay/itm/blob/main/images/scala_output.png)
 
 ## Deliverables
 
