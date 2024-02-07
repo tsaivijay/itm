@@ -58,15 +58,15 @@ Screenshot goes here
 ### Screenshot of the printSchema inferred in Scala
 
 Screenshot goes here
-
+![image4](https://github.com/tsaivijay/itm/blob/main/images/inferred-sc.png)
 ### Screenshot of the printSchema programmatically in Scala
 
 Screenshot goes here
-
+![image5](https://github.com/tsaivijay/itm/blob/main/images/pro-sl.png)
 ### Screenshot of the printSchema via DDL in Scala
 
 Screenshot goes here
-
+![image6](https://github.com/tsaivijay/itm/blob/main/images/ddl-sc.png
 ### Deliverable
 
 Submit to Blackboard the URL to the folder in your GitHub repo. I will clone your code, compile it, and run it to test the functionality. Include your `build.sbt` and all needed scaffolding files as well, but not your build artifacts.
