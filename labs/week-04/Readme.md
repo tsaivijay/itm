@@ -46,15 +46,15 @@ Add the required screenshots here:
 ### Screenshot of the printSchema inferred in Python
 
 Screenshot goes here
-
+![image1](https://github.com/tsaivijay/itm/blob/main/images/inferred-py.png)
 ### Screenshot of the printSchema programmatically in Python
 
 Screenshot goes here
-
+![image2](https://github.com/tsaivijay/itm/blob/main/images/pro-py.png)
 ### Screenshot of the printSchema via DDL in Python
 
 Screenshot goes here
-
+![image](https://github.com/tsaivijay/itm/blob/main/images/ddl-py.png)
 ### Screenshot of the printSchema inferred in Scala
 
 Screenshot goes here
