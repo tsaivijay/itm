@@ -48,4 +48,3 @@ df_filtered.show(10)
 
 # Stop SparkSession
 spark.stop()
-
